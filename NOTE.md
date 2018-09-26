@@ -1,3 +1,5 @@
+# Usage
+
 export PATH=${PATH}:/home/research/RR_GitLab/ec2ssh
 
 aws configure
